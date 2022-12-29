@@ -1,0 +1,29 @@
+.box1{
+    width: 400px;
+    height: 350px;
+    background-color: blueviolet;
+    padding-left: 20px;
+
+
+}
+.upperbox1{
+
+    width: 90px;
+    height: 70px;
+    background-color:white;
+}
+.box2{
+    width: 400px;
+    height: 350px;
+    background-color: blueviolet;
+    padding-left: 20px;
+    margin-top: 20px;
+
+}
+.upperbox2{
+
+    width: 90px;
+    height: 30px;
+    background-color: black;
+}
+

@@ -1,0 +1,43 @@
+h1,h2,h3,h4,h5,h6,p,ul,ol,li,img,a,table,th,td{margin:0;
+    padding: 0;}
+    p{
+        color:red;
+        font-size: 30px;
+        font-weight: bold;
+    }
+   #first-paragraph{
+color: green;
+    }
+    h1{font-size: 42px;}
+    #second-paragraph{
+        color: aqua;
+    }
+    .my-own-class{
+        font-size: 15px;
+        font-style: italic;
+        text-decoration: underline;
+        text-align: justify;}
+        h1{
+            background-color: rgb(199, 13, 246);
+            color: white;
+            text-align: center;
+            text-decoration: underline;
+            text-decoration-color:blue;
+        }
+       .box1{
+             width:200px;
+             height:200px;
+             background: gold;
+             /* background-image: conic-gradient(yellow,orange,violet); */
+            background: url('2023.jpg');
+       }
+       h5{
+        color: brown;
+       }
+       .box1 h5{
+        color: white;
+       }
+       body{
+        text-align: center;
+       }
+

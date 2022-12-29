@@ -1,0 +1,33 @@
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+    border: black dotted 2px;
+    border-color: aqua;
+}
+.box1{
+    
+    color:white;
+    background: blue;
+}
+.box2{
+    color: white;
+    background: red;
+    margin-left: 40px;
+}
+ .ncell-purple{ 
+     width: 200px; 
+    height: 100px;
+    background-color: purple;
+} 
+.ncell-white{
+    color: purple;
+    width: 90px;
+    height: 60px;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    position: static;
+    border-color: black;
+    background: url('ncelllogo.png');
+}

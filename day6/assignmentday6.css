@@ -1,0 +1,28 @@
+.box1{
+    width: 150px;
+    height: 200px;
+    background-color: magenta;
+    padding-left: 40px;
+    padding: 20%;
+
+}
+ .upperbox1{
+        width: 50px;
+        height: 70px;
+        background-color: black;
+       
+ }
+ 
+ 
+ .box2{
+     width: 250px;
+     height: 200px;
+     background-color: rgb(33, 160, 118);
+     padding-left: 20px;
+     padding-top: 30px;
+ }
+ .upperbox2{
+     width: 40px;
+     height: 20px;
+     background-color: rgb(32, 7, 54);
+ }

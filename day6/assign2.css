@@ -1,0 +1,24 @@
+.box1{
+width: 310px;
+height: 200px;
+background-color: black;
+padding:30px ;
+
+}
+.upperbox1{
+    width: 20px;
+    height: 50px;
+    background-color: white;
+}
+.box2{
+    width: 310px;
+    height: 200px;
+    background-color: black;
+    padding:30px ;
+    margin-top: 20px;
+    }
+    .upperbox2{
+        width: 20px;
+        height: 50px;
+        background-color: white;
+    }
