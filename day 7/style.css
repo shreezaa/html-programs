@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body{
+    background: white;
+}
+.click-me a{
+    display: inline-block;
+background: red;
+text-decoration: none;
+color: white;
+border: 5px solid black;
+font-size: 18px;
+padding:  15px 30px;
+border-radius:  30px;
+transition: all linear 0.3s;
+
+}
+.click-me a:hover{
+    background: yellow;
+    color: black;
+    border-color: blueviolet;
+    border-radius:0px ;
+    font-size: 24px;
+    box-shadow: 5px 5px  10px -3px red;
+}
+.card-box{
+    width: 200px;
+    background: white;
+    background-color: blueviolet;
+}
+.card-box .card-image img{
+    width: 100%;
+}

@@ -1,0 +1,192 @@
+.bts{
+   
+    display: flex;
+   font-style: italic;
+   padding: 0px;
+   margin: 20px;
+  background-size: contain;
+  background-color: black;
+  width: fit-content;
+  overflow: auto;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+.rm{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+}
+.jin{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+  }
+.suga{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+}
+.jhope{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+}
+.jimin{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.3s;
+    font-size: 18px;
+}
+.V{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 1s;
+    font-size: 18px;
+}
+.jk{
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 0px;
+    transition: all linear 0.5s;
+    font-size: 18px;
+  
+    
+}
+.rminfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: #add8e6;
+    text-align: center;
+    
+}
+.jininfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(230, 134, 179);
+    text-align: center;
+    
+}
+.sugainfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(100, 101, 102);
+    text-align: center;
+    
+}
+.jhopeinfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(233, 122, 107);
+    text-align: center;
+    
+}
+.jimininfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(201, 226, 90);
+    text-align: center;
+    
+}
+.vinfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(72, 172, 47);
+    text-align: center;
+    
+}
+.jkinfo{
+    padding: 10px;
+    width: 180px;
+    height: 70px;
+    background-color: rgb(189, 62, 189);
+    text-align: center;
+    
+}
+.rm :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 10px  15px 3px #add8e6;
+    font-size: 25px;
+}
+.jin :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(230, 134, 179);
+    font-size: 25px;
+}
+.suga :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(100, 101, 102);
+    font-size: 25px;
+}
+.jhope :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(233, 122, 107);
+    font-size: 25px;
+}
+.jimin :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(201, 226, 90);
+    font-size: 25px;
+}
+.V :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(72, 172, 47);
+    font-size: 25px;
+}
+.jk :hover{
+    
+    border-radius:30px ;
+    box-shadow: 5px 5px  10px 3px rgb(189, 62, 189);
+    font-size: 25px;
+}
+p1{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-style: bold;
+    font-size: 50px;
+}
+ 

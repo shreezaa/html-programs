@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.student{
+    background: black;
+    padding:100px 0;
+    min-height: 500px;
+
+}
+.student .container{
+    margin: 0 auto;
+    width: 1127px;
+   
+}
+.student .student-title h4{
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
+.student-list{
+    display: flex;
+}
+.student-image{
+    overflow: hidden;
+}
+.student-image img{
+    width: 100%;
+    border-radius: 15px;
+    transition: all linear 0.3s;
+}
+
+.student .student-title h2{
+    color: aliceblue;
+    font-size: 48px;
+    text-align: center;
+}
+.student-details{
+    width: 300px;
+    background:white;
+    border-radius: 15px;
+    padding: 15px;
+    overflow: hidden;
+}
+.student-details img{
+    width: 100%;
+    border-radius: 15px;
+}
+.student-details h4{
+    text-align: center;
+    margin-top: 20px;
+   
+}
+.student-details span{
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #666;
+}
+.student-details :hover img{
+      transform: scale(1.2);
+}
