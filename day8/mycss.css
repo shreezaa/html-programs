@@ -1,62 +1,73 @@
 *{
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 .student{
+    padding: 100px 0;
     background: black;
-    padding:100px 0;
     min-height: 500px;
 
 }
 .student .container{
     margin: 0 auto;
-    width: 1127px;
-   
+    width:1170px;
+    
+
 }
-.student .student-title h4{
-    color: red;
-    text-align: center;
+.student-container .student-title h4{
+    color: black;
     font-size: 24px;
+    text-align: center;
 }
-.student-list{
-    display: flex;
-}
+
 .student-image{
     overflow: hidden;
 }
-.student-image img{
+.student image img{
     width: 100%;
     border-radius: 15px;
     transition: all linear 0.3s;
 }
+.student .student-title h4{
+    color: red;
+    text-align: center;
 
+}
 .student .student-title h2{
     color: aliceblue;
-    font-size: 48px;
+    font-size:40px;
     text-align: center;
 }
+.student-list{
+    display: flex;
+}
 .student-details{
-    width: 300px;
+    display:inline-block ;
+    width: 20%;
     background:white;
     border-radius: 15px;
     padding: 15px;
+    margin: 0 10px;
     overflow: hidden;
+
 }
 .student-details img{
     width: 100%;
     border-radius: 15px;
 }
 .student-details h4{
+
     text-align: center;
     margin-top: 20px;
-   
+    
+    
 }
 .student-details span{
     display: block;
     text-align: center;
-    margin-bottom: 20px;
     color: #666;
+    margin-bottom: 15px;
 }
-.student-details :hover img{
-      transform: scale(1.2);
+.student-details:hover img{
+    transform: scale(1.2);
 }
